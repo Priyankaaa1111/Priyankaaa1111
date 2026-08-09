@@ -1,63 +1,32 @@
-# 🎀 Hi, I'm Priyanka!
+<div align="center">
 
-### 💻 IT Engineering Student | Data & AI Enthusiast | Developer ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:E8D9FF,100:D8EFFF&height=220&section=header&text=Priyanka%20Parab&fontSize=45&fontColor=6B5878&fontAlignY=40&desc=🌷%20coding%20•%20creating%20•%20dreaming%20☁️&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
-🌷 Learning • Analyzing • Building • Creating  
-📊 Turning data into insights  
-🤖 Exploring AI & Machine Learning  
-💡 Turning ideas into real-world projects  
+</div>
 
----
+<div align="center">
 
-## 🌸 About Me
+💻 IT Engineering Student  
+📊 Data & AI enthusiast  
+🌸 Learning • Creating • Exploring
 
-🎓 IT Engineering Student  
-📊 Interested in **Data Analytics & Data Science**  
-🤖 Exploring **Artificial Intelligence & Machine Learning**  
-💻 Building projects with **Python & Web Technologies**  
-🌱 Always learning something new  
+</div>
 
 ---
 
-## 🛠️ Tech & Skills
+## 🌷 About Me
 
-### 💻 Programming & Development
-`Python` `HTML` `CSS` `JavaScript`
-
-### 📊 Data Analytics & Data Science
-`Pandas` `NumPy` `Matplotlib` `Data Visualization` `Data Analysis`
-
-### 🤖 AI & Machine Learning
-`Machine Learning` `Deep Learning` `Fuzzy Logic` `NLP`
-
-### 🧰 Tools
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
+♡ currently learning new things  
+♡ turning ideas into little projects  
+♡ collecting knowledge one commit at a time  
+♡ probably drinking coffee while coding ☕  
 
 ---
 
-## 🎀 Featured Projects
+<div align="center">
 
-🌷 **Thrift Store**  
-Python-based application for buying and selling reusable clothing.
+### ☁️ ✧･ﾟ: *✧･ﾟ:* Keep creating *:･ﾟ✧*:･ﾟ✧ ☁️
 
-🎪 **Planora**  
-Event planning and management platform with customization and vendor management.
+🌷 💻 📊 🎀 ☁️ 🦋
 
-📚 **Online Bookstore**  
-A web-based bookstore project for browsing and managing books.
-
----
-
-## 📈 What I'm Exploring
-
-📊 Data Analytics  
-🤖 Machine Learning  
-🧠 Artificial Intelligence  
-🌐 Web Development  
-☁️ Data & Cloud Technologies  
-
----
-
-## 💌 Let's Connect
-
-💼 LinkedIn • 📸 Instagram
+</div>
