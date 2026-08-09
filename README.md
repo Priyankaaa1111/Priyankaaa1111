@@ -2,32 +2,34 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:E8D9FF,100:D8EFFF&height=220&section=header&text=Priyanka%20Parab&fontSize=45&fontColor=6B5878&fontAlignY=40&desc=🌷%20coding%20•%20creating%20•%20dreaming%20☁️&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-💻 IT Engineering Student  
-📊 Data & AI enthusiast  
-
-</div>
-
----
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=9B7EAD&center=true&vCenter=true&width=600&lines=hello%2C+I'm+Priyanka+%F0%9F%8C%B7;welcome+to+my+little+corner+of+GitHub+%E2%98%81%EF%B8%8F;coding+%E2%80%A2+creating+%E2%80%A2+dreaming+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
-<div>
-  
-## 🌷 About Me
+---
 
-♡ currently learning new things  
-♡ turning ideas into little projects  
-♡ collecting knowledge one commit at a time  
-♡ probably drinking coffee while coding ☕  
+<div align="center">
+
+### ☁️ a little about me ☁️
+
+💻 IT Engineering Student
+📊 Data & AI enthusiast
+🌷 learning, creating & exploring
+☕ fueled by curiosity & coffee
 
 </div>
+
+---
+
+## 🌷 currently...
+
+♡ learning new things every day
+♡ turning random ideas into little projects
+♡ exploring **Data, AI & technology**
+♡ collecting knowledge one commit at a time
+♡ romanticizing the coding journey ✨
+
+---
 
 <div align="center">
 
@@ -37,7 +39,9 @@
 <img src="https://img.shields.io/badge/HTML5-E8D9FF?style=for-the-badge&logo=html5&logoColor=6B5878"/>
 <img src="https://img.shields.io/badge/CSS3-D8EFFF?style=for-the-badge&logo=css3&logoColor=6B5878"/>
 <img src="https://img.shields.io/badge/JavaScript-FFF1C9?style=for-the-badge&logo=javascript&logoColor=6B5878"/>
+
 <br>
+
 <img src="https://img.shields.io/badge/Pandas-E8D9FF?style=for-the-badge&logo=pandas&logoColor=6B5878"/>
 <img src="https://img.shields.io/badge/NumPy-D8EFFF?style=for-the-badge&logo=numpy&logoColor=6B5878"/>
 <img src="https://img.shields.io/badge/Git-FFD6E8?style=for-the-badge&logo=git&logoColor=6B5878"/>
@@ -45,21 +49,22 @@
 
 </div>
 
-<div align="center">
-
-## ☁️ my little GitHub corner ☁️
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyankaaa1111&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=9B7EAD&icon_color=E8A7C5&text_color=6B5878" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankaaa1111&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=9B7EAD&text_color=6B5878" height="170"/>
-
-</div>
 ---
 
 <div align="center">
 
-### ☁️ ✧･ﾟ: *✧･ﾟ:* Keep creating *:･ﾟ✧*:･ﾟ✧ ☁️
+### 🎀 little things I love
 
-🌷 💻 📊 🎀 ☁️ 🦋
+🌷 coding & creating
+📊 playing with data
+🤖 exploring AI
+☁️ dreamy aesthetics
+☕ coffee + late-night ideas
+
+<br>
+
+### ☁️ ✧･ﾟ: *✧･ﾟ:* keep creating, keep growing *:･ﾟ✧*:･ﾟ✧ ☁️
+
+🌷 🦋 ☁️ 🎀 💻 📊 ✨
 
 </div>
