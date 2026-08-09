@@ -45,6 +45,15 @@
 
 </div>
 
+<div align="center">
+
+## ☁️ my little GitHub corner ☁️
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyankaaa1111&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=9B7EAD&icon_color=E8A7C5&text_color=6B5878" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankaaa1111&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=9B7EAD&text_color=6B5878" height="170"/>
+
+</div>
 ---
 
 <div align="center">
